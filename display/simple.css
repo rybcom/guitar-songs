@@ -1,0 +1,14 @@
+ body {
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     font-size: x-large;
+     color: black;
+
+     background-color: whitesmoke;
+     margin: 9;
+     padding: 10;
+ }
+
+ sup {
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     color: blue;
+ }

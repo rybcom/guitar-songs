@@ -1,0 +1,21 @@
+ body {
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     font-size: x-large;
+     color: black;
+     background-color: white;
+ }
+
+ .song {
+     margin: auto;
+     width: 40%;
+     border: 1px solid royalblue;
+     border-radius: 1em;
+     padding: 50px;
+     background-color: whitesmoke;
+ }
+
+ sup {
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     color: royalblue;
+     font-weight: bold;
+ }
