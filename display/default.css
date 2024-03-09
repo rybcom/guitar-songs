@@ -14,6 +14,17 @@
      background-color: whitesmoke;
  }
 
+ .sticky-header-active {
+     position: sticky;
+     top: 0;
+     background-color: whitesmoke;
+     padding-bottom:20px;
+     margin-bottom:40px;
+     border-bottom: 2px solid royalblue;
+     z-index: 1000; 
+     box-shadow: 0 2px 4px rgba(156, 25, 25, 0.1); 
+ }
+
  sup {
      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
      color: royalblue;
